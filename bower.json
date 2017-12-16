@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "authors": [
+    "Max"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/maxmiguta/angular_todo#readme",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.7",
+    "angular-route": "^1.6.7"
+  }
+}
